@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a5fba60-b7e6-4d02-aeea-3ebea545fde2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1c7QkjvijOH8mrbqD48IaLeLTbV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37126437" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="[jetty:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a5fba60-b7e6-4d02-aeea-3ebea545fde2" name="Default Changelist" comment="" />
+      <created>1589877296645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589877296645</updated>
+      <workItem from="1589877303105" duration="2601000" />
+      <workItem from="1589942331983" duration="1918000" />
+      <workItem from="1589944540110" duration="2256000" />
+      <workItem from="1589946959501" duration="7077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589950628822">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1589950628822" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589947320594">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1589947320594" />
+    <state width="1253" height="267" key="GridCell.Tab.0.bottom" timestamp="1589960762921">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="267" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1589960762921" />
+    <state width="1253" height="267" key="GridCell.Tab.0.center" timestamp="1589960762920">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="267" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1589960762920" />
+    <state width="1253" height="267" key="GridCell.Tab.0.left" timestamp="1589960762920">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="267" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1589960762920" />
+    <state width="1253" height="267" key="GridCell.Tab.0.right" timestamp="1589960762921">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="267" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1589960762921" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1589949923314">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1589949923314" />
+    <state x="77" y="27" width="1289" height="741" key="new project wizard" timestamp="1589945067733">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="77" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1589945067733" />
+  </component>
+</project>
